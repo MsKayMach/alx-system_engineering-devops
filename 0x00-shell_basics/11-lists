@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r betty
+ls -al . .. ls -al /boot
