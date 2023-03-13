@@ -1,2 +1,2 @@
-#!/bin/bash
-:set number /bin :%s///gn
+#!/bin/sh
+grep -c "bin" /etc/passwd
