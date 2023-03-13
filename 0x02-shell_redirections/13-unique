@@ -1,1 +1,2 @@
 #!/bin/bash
+tr '[:upper:]' '[:lower:]' | tr -s ' ' '\n' | sort | uniq -c | awk '{if ($1 == 1) print $2}'
