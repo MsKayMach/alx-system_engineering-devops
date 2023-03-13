@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '$-1\ngg\nyyp\n:wq' | vi iacta
+ls -la > ls_cwd_content
