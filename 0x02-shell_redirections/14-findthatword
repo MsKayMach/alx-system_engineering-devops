@@ -1,2 +1,2 @@
 #!/bin/bash
-echo g/root/p
+g/root/p /etc/passwd
