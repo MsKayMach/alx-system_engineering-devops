@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 iacta
+dir_count=$(find . -type d | wc -l)
