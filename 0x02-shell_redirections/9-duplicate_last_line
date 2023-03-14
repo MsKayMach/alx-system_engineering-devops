@@ -1,2 +1,2 @@
 #!/bin/bash
-G|yyp|k$|p iacta
+tail -1 iacta >> iacta
